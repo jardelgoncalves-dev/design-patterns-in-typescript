@@ -12,7 +12,7 @@ class FootballTournaments extends IFootballTournaments {
 }
 
 export class Creator {
-  static createFootbalTournament(tournamentName: string): IFootballTournaments | null {
+  static createFootbalTournament(tournamentName: string): FootballTournaments | null {
     const options = {
       'FIFA World Cup': () => new FootballTournaments(tournamentName, 48),
       'UEFA Champions League': () => new FootballTournaments(tournamentName, 79),
