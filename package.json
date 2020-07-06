@@ -1,7 +1,7 @@
 {
-  "name": "clean-archtecture",
+  "name": "design-patterns-in-typescript",
   "version": "1.0.0",
-  "description": "",
+  "description": "Design pattern implementations in TypeScript",
   "main": "index.js",
   "scripts": {
     "test": "jest"
