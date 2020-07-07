@@ -1,4 +1,4 @@
-import { Creator } from '../../src/creational/factory-method';
+import { Creator } from '../../src/creational/factory_method';
 
 describe('Creational/Factory Method Test', () => {
   it('should create an football tournaments', () => {
