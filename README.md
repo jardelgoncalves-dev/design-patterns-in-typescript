@@ -2,4 +2,4 @@
 Design patterns implementations in TypeScript
 
 ### Creational
-- **factory method**: defines an interface to create an object, but it allows the subclasses to decide that instance class.
+- **[Factory Method](src/creational/factory_method/doc.md)**: defines an interface to create an object, but it allows the subclasses to decide that instance class.
